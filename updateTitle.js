@@ -17,7 +17,7 @@ const updateVideo = async () => {
 
     try {
         const result = await youtube.videos.list({
-            id: "mveujnBi7bM",
+            id: "whc6C7vS6MQ",
             part: "statistics,snippet",
         });
 
